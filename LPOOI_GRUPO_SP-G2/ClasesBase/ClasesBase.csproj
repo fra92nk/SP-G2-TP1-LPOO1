@@ -41,8 +41,13 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Atleta.cs" />
-    <Compile Include="Class1.cs" />
+    <Compile Include="Categoria.cs" />
+    <Compile Include="Disiplina.cs" />
+    <Compile Include="Competencia.cs" />
+    <Compile Include="Evento.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Roles.cs" />
+    <Compile Include="Usuario.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="ClassDiagram.cd" />
